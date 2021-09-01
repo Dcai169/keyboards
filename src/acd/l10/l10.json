@@ -1,0 +1,13 @@
+{
+    "name": "ACD-L10",
+    "vendorId": "0x4443",
+    "productId": "0x4C10",
+    "lighting": "qmk_rgblight",
+    "matrix": { "rows": 2, "cols": 4 },
+    "layouts": {
+      "keymap": [
+        ["0,0", "0,1", "0,2", "0,3"],
+        ["1,0", "1,1", "1,2", "1,3"]
+      ]
+    }
+  }
